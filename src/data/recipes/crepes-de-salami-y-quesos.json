@@ -1,0 +1,35 @@
+{
+  "slug": "crepes-de-salami-y-quesos",
+  "title": "Crepes de salami\ny quesos",
+  "subtitle": "Rellenos de carne picada, verdura y quesos variados",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Día Mundial del Salami",
+    "day": 7,
+    "month": 9
+  },
+  "servings": 5,
+  "prepMinutes": 30,
+  "cookMinutes": 25,
+  "difficulty": "media",
+  "story": "Diez crepes, un sofrito de carne y salami, y una mezcla de quesos que huele a nevera bien surtida. Félix Ojeda celebra el salami enrollado, gratinado y para compartir.",
+  "ingredients": [
+    "150 g de salami",
+    "250 g de carne picada",
+    "100 g de zanahoria",
+    "20 g de ajos",
+    "150 g de cebolla",
+    "Orégano",
+    "Quesos variados (cheddar, parmesano, mozzarella y de vaca olorosos)",
+    "10 crepes"
+  ],
+  "steps": [
+    "Pica la cebolla, los ajos y la zanahoria. Sofríe hasta que estén tiernos.",
+    "Añade la carne picada y el salami picado. Saltea con orégano hasta que la carne esté hecha.",
+    "Rellena los 10 crepes con el sofrito y los quesos variados. Enrolla y coloca en una fuente.",
+    "Gratína hasta que el queso funda y los bordes doren. Sirve caliente."
+  ],
+  "notes": "Repartir varios quesos en cada crepe deja cada bocado distinto.",
+  "tags": ["salami", "crepes", "queso", "aruseros"],
+  "draft": false
+}

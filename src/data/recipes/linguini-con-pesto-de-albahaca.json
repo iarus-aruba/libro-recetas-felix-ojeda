@@ -1,0 +1,34 @@
+{
+  "slug": "linguini-con-pesto-de-albahaca",
+  "title": "Linguini con pesto\nde albahaca y atún",
+  "subtitle": "Pesto de albahaca, piñones, parmesano y atún",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Día Mundial del Linguini con Pesto",
+    "day": 15,
+    "month": 9
+  },
+  "servings": 4,
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "difficulty": "fácil",
+  "story": "El pesto se liga con agua de la pasta y aceite, y el atún lo deja de plato único. Félix Ojeda, Día Mundial del Linguini con Pesto.",
+  "ingredients": [
+    "100 ml de agua de la cocción de la pasta",
+    "100 g de aceite de oliva",
+    "30 g de albahaca",
+    "50 g de piñones",
+    "100 g de parmesano",
+    "20 g de ajo",
+    "500 g de pasta",
+    "150 g de atún"
+  ],
+  "steps": [
+    "Cuece la pasta en agua salada. Reserva 100 ml del agua de cocción antes de escurrir.",
+    "Tritura el agua de la pasta, el aceite de oliva, la albahaca, los piñones, el parmesano y el ajo hasta obtener un pesto.",
+    "Mezcla la pasta caliente con el pesto y el atún. Sirve enseguida."
+  ],
+  "notes": "Si el pesto queda espeso, alarga con un poco más de agua de la pasta.",
+  "tags": ["pesto", "linguini", "albahaca", "atún", "aruseros"],
+  "draft": false
+}

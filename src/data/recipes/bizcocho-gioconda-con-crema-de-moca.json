@@ -1,0 +1,41 @@
+{
+  "slug": "bizcocho-gioconda-con-crema-de-moca",
+  "title": "Bizcocho Gioconda\ncon crema de moca",
+  "subtitle": "Con sirope de café y licor",
+  "category": "Postres",
+  "worldDay": {
+    "name": "Día Mundial del Chocolate",
+    "day": 13,
+    "month": 9
+  },
+  "servings": 8,
+  "prepMinutes": 40,
+  "cookMinutes": 25,
+  "difficulty": "elaborada",
+  "story": "Tres recetas en una: el bizcocho Gioconda, un sirope de café y una crema de moca. Félix Ojeda la marca como día de tarea, y sale una tarta para el Día Mundial del Chocolate.",
+  "ingredients": [
+    "3 huevos, para el bizcocho Gioconda",
+    "125 g de azúcar glas, para el bizcocho",
+    "125 g de almendras molidas, para el bizcocho",
+    "2 claras de huevo montadas, para el bizcocho",
+    "20 g de harina, para el bizcocho",
+    "20 g de mantequilla derretida, para el bizcocho",
+    "200 ml de agua, para el sirope de café",
+    "125 ml de azúcar, para el sirope",
+    "Licor al gusto, para el sirope",
+    "4 yemas de huevo, para la crema de moca",
+    "4 cucharadas de café soluble, para la crema",
+    "150 g de mantequilla blanda, para la crema",
+    "100 g de azúcar, para la crema"
+  ],
+  "steps": [
+    "Para el Gioconda, bate los 3 huevos con el azúcar glas y las almendras molidas. Incorpora la harina y la mantequilla derretida. Envuelve las 2 claras montadas con suavidad.",
+    "Extiende la masa en una bandeja y hornea hasta que esté hecha y apenas dorada. Enfría y corta en capas.",
+    "Para el sirope, cuece el agua con el azúcar hasta que disuelva. Añade el licor al gusto y deja templar.",
+    "Para la crema de moca, trabaja las yemas con el azúcar y el café soluble. Añade la mantequilla blanda y bate hasta que quede sedosa.",
+    "Empapa las capas de bizcocho con el sirope, rellena con la crema de moca y cubre. Enfría antes de cortar."
+  ],
+  "notes": "Monta las claras a punto firme y mézclalas al final, para que el Gioconda no se baje.",
+  "tags": ["chocolate", "café", "tarta", "aruseros"],
+  "draft": false
+}

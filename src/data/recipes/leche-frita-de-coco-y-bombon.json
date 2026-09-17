@@ -1,0 +1,40 @@
+{
+  "slug": "leche-frita-de-coco-y-bombon",
+  "title": "Leche frita de coco\ny bombón de coco",
+  "subtitle": "Rebozada y frita, con bombón de chocolates y trigo con miel",
+  "category": "Postres",
+  "worldDay": {
+    "name": "Día Mundial del Coco",
+    "day": 2,
+    "month": 9
+  },
+  "servings": 6,
+  "prepMinutes": 30,
+  "cookMinutes": 25,
+  "difficulty": "media",
+  "story": "El coco va por partida doble: una crema frita crujiente por fuera y un bombón de chocolates, trigo con miel y coco rallado. Un postre de Félix Ojeda para el Día Mundial del Coco.",
+  "ingredients": [
+    "1/2 l de leche de coco",
+    "50 g de maicena",
+    "125 g de azúcar",
+    "50 g de coco rallado",
+    "Harina, para el rebozado",
+    "Huevos, para el rebozado",
+    "200 ml de aceite de girasol, para freír",
+    "50 ml de aceite de coco, para freír",
+    "150 g de chocolate con leche, para el bombón",
+    "100 g de chocolate negro, para el bombón",
+    "50 g de trigo con miel (los del desayuno), para el bombón",
+    "100 g de coco rallado, para el bombón",
+    "Una pizca de sal de escamas"
+  ],
+  "steps": [
+    "Mezcla la leche de coco, la maicena, el azúcar y los 50 g de coco rallado. Cuece removiendo hasta que espese. Vierte en una bandeja, alisa y deja enfriar.",
+    "Corta la crema en porciones. Pasa por harina y huevo batido. Fríe en la mezcla de aceite de girasol y aceite de coco hasta que doren. Escurre sobre papel.",
+    "Para el bombón, derrite el chocolate con leche y el chocolate negro. Incorpora el trigo con miel, los 100 g de coco rallado y la sal de escamas.",
+    "Forma los bombones, deja cuajar y sirve junto a la leche frita."
+  ],
+  "notes": "La crema tiene que estar bien fría para rebozarla sin que se rompa.",
+  "tags": ["coco", "postre", "chocolate", "aruseros"],
+  "draft": false
+}

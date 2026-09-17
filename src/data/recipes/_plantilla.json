@@ -1,0 +1,28 @@
+{
+  "slug": "nombre-de-la-receta",
+  "title": "Nombre de la receta",
+  "subtitle": "Una línea que invite a cocinarla",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Día Mundial de…",
+    "day": 1,
+    "month": 1
+  },
+  "servings": 4,
+  "prepMinutes": 15,
+  "cookMinutes": 30,
+  "difficulty": "fácil",
+  "image": "/images/nombre-de-la-receta.jpg",
+  "imageAlt": "Describe la foto",
+  "video": {
+    "file": "/videos/nombre-de-la-receta.mp4",
+    "youtube": "",
+    "caption": "Explicación de la receta"
+  },
+  "story": "Por qué está en el libro o cuándo se cocina.",
+  "ingredients": ["Ingrediente 1", "Ingrediente 2"],
+  "steps": ["Paso 1.", "Paso 2."],
+  "notes": "Un consejo o cómo se guarda.",
+  "tags": [],
+  "draft": false
+}

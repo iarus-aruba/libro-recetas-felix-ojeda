@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #e8f3fc;
+  --paper-dark: #b7d0ea;
+  --ink: #143052;
+  --ink-soft: #4b6480;
+  --terracotta: #1d6bb8;
+  --olive: #2f5f8a;
+  --gold: #5a9ad4;
+  --line: #b4cbe3;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --font-sans: var(--font-source-sans), "Segoe UI", sans-serif;
+  --font-serif: var(--font-cormorant), Georgia, serif;
+}
+
+html {
+  background: var(--paper);
+  font-size: 20px;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 16mm 16mm 18mm;
+  }
+
+  @page :first {
+    margin: 0;
+  }
+
+  :root {
+    --paper: #ffffff;
+    --paper-dark: #c5d9ee;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #143052 !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+  .print-cover {
+    break-after: page;
+    width: 210mm;
+    max-width: none;
+    height: 297mm;
+    margin: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .print-cover .cover-photo {
+    height: 297mm;
+    width: 210mm;
+    max-width: none;
+    object-fit: cover;
+  }
+
+  .print-index,
+  .print-recipe {
+    break-inside: avoid;
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "guacamole-con-chipirones",
+  "title": "Guacamole con chipirones\na la plancha",
+  "subtitle": "Aguacate, lima, cilantro y un golpe de mar",
+  "category": "Entrantes",
+  "worldDay": {
+    "name": "Día Mundial del Guacamole",
+    "day": 16,
+    "month": 9
+  },
+  "servings": 2,
+  "prepMinutes": 15,
+  "cookMinutes": 5,
+  "difficulty": "fácil",
+  "story": "Un guacamole clásico, con lima y cilantro, y chipirones a la plancha para no dejarlo solo con el nacho. Félix Ojeda lo sirve como entrante del Día Mundial del Guacamole.",
+  "ingredients": [
+    "200 g de aguacate",
+    "50 g de cebolla",
+    "2 ramitas de cilantro",
+    "15 g de AOVE",
+    "Ralladura de 1 lima",
+    "Zumo de 1 lima",
+    "70 g de tomate sin semillas, picado",
+    "Pimienta",
+    "Sal",
+    "Chipirones a la plancha"
+  ],
+  "steps": [
+    "Machaca el aguacate. Pica la cebolla, el cilantro y el tomate sin semillas.",
+    "Mezcla con el AOVE, la ralladura y el zumo de lima. Salpimienta.",
+    "Haz los chipirones a la plancha, bien caliente, solo el tiempo de que doren.",
+    "Sirve el guacamole junto a los chipirones."
+  ],
+  "notes": "El tomate, bien escurrido, para que el guacamole no quede aguado.",
+  "tags": ["guacamole", "aguacate", "chipirones", "aruseros"],
+  "draft": false
+}

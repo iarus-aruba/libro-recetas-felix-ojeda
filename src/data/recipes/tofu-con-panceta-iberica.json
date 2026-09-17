@@ -1,0 +1,54 @@
+{
+  "slug": "tofu-con-panceta-iberica",
+  "title": "Tofu empanado salteado con verduras y\nfrutas",
+  "subtitle": "Con panceta, salsa agridulce y tortilla",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Día Mundial del Tofu",
+    "day": 1,
+    "month": 9
+  },
+  "servings": 2,
+  "prepMinutes": 20,
+  "cookMinutes": 20,
+  "difficulty": "media",
+  "image": "/images/tofu-con-panceta-iberica.jpg",
+  "imageAlt": "Bandeja de tofu empanado con salsa, verduras, frutas y cebolleta",
+  "video": {
+    "file": "/videos/tofu-con-panceta-iberica.mp4",
+    "caption": "Explicación de Félix Ojeda"
+  },
+  "story": "El tofu, si se deja solo, queda un poco tristón. Aquí se anima con panceta, un salteado de verduras y frutas, y una salsa agridulce de soja, ostras, miel y sésamo. Un plato de Félix Ojeda, para quien dice que el tofu no sabe a nada.",
+  "ingredients": [
+    "150 g de tofu",
+    "100 g de panceta",
+    "15 g de ajo",
+    "10 g de jengibre",
+    "50 g de pimiento rojo",
+    "50 g de pimiento verde",
+    "50 g de berenjena",
+    "70 g de zanahoria",
+    "100 g de cebolleta",
+    "125 g de variado de frutas",
+    "50 g de salsa de soja",
+    "50 g de salsa de ostras",
+    "30 g de miel",
+    "10 g de aceite de sésamo",
+    "Semillas de sésamo, para el empanado",
+    "Panko, para el empanado",
+    "2 huevos, para el empanado",
+    "2 huevos, para la tortilla",
+    "Aceite para freír"
+  ],
+  "steps": [
+    "Corta el tofu en dados. Bate 2 huevos. Pasa el tofu por huevo, panko y semillas de sésamo. Fríe en aceite caliente hasta que quede dorado. Escurre sobre papel.",
+    "Con los otros 2 huevos, haz una tortilla francesa. Reserva y córtala en tiras.",
+    "Pica ajo y jengibre. Corta pimiento rojo, pimiento verde, berenjena, zanahoria y cebolleta. Reserva un poco de cebolleta cruda para el final.",
+    "En un wok o sartén amplia, saltea la panceta. Añade ajo y jengibre, luego las verduras y el variado de frutas, y saltea hasta que estén al dente.",
+    "Mezcla salsa de soja, salsa de ostras, miel y aceite de sésamo. Vuelca la salsa sobre el salteado y deja que espese un minuto.",
+    "Incorpora la tortilla y el tofu empanado. Saltea todo junto, corona con la cebolleta cruda y sirve enseguida."
+  ],
+  "notes": "Rectifica soja y miel al gusto. Si quieres más crujiente, fríe el tofu aparte y mézclalo solo al final.",
+  "tags": ["tofu", "panceta", "fusión", "aruseros"],
+  "draft": false
+}

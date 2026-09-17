@@ -1,0 +1,47 @@
+{
+  "slug": "pastel-de-hamburguesa-en-hojaldre-y-quesos",
+  "title": "Pastel de hamburguesa\nen hojaldre y quesos",
+  "subtitle": "Con cheddar, Torta del Casar, panceta y sésamo",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Día Mundial de la Hamburguesa con Queso",
+    "day": 18,
+    "month": 9
+  },
+  "servings": 6,
+  "prepMinutes": 35,
+  "cookMinutes": 20,
+  "difficulty": "media",
+  "image": "/images/pastel-de-hamburguesa-en-hojaldre-y-quesos.jpg",
+  "imageAlt": "Seis pasteles de hamburguesa en hojaldre dorado, con sésamo, sobre pizarras",
+  "video": {
+    "file": "/videos/pastel-de-hamburguesa-en-hojaldre-y-quesos.mp4",
+    "caption": "Explicación de Félix Ojeda"
+  },
+  "story": "Seis paquetitos de hojaldre, cada uno con su hamburguesa y un relleno distinto: cheddar, tomate, jamón, Torta del Casar, yema, panceta crujiente y más queso. Un plato de Félix Ojeda para el Día Mundial de la Hamburguesa con Queso.",
+  "ingredients": [
+    "2 láminas de hojaldre refrigerado",
+    "6 hamburguesas",
+    "6 lonchas de queso cheddar",
+    "Tomate en rodajas",
+    "Jamón york, al gusto",
+    "Torta del Casar",
+    "Queso rallado",
+    "Queso azul, al gusto",
+    "Panceta o bacon, frita",
+    "1 o 2 yemas de huevo, para algunas unidades",
+    "1 huevo batido, para pintar",
+    "Sésamo blanco y negro",
+    "Kétchup y mostaza, para servir"
+  ],
+  "steps": [
+    "Corta el hojaldre en 12 discos: 6 bases y 6 tapas. Coloca una loncha de cheddar sobre cada base.",
+    "Haz las hamburguesas a la plancha y pon una sobre cada disco. Encima, varía el relleno: tomate, jamón, Torta del Casar, queso rallado, queso azul y, en un par de ellas, una yema de huevo.",
+    "Remata con panceta frita y más queso rallado. Cubre con el otro disco de hojaldre. Si te falta masa, aplástala un poco entre dos papeles de horno.",
+    "Sella los bordes a mano o con un tenedor. Pinta con huevo batido, espolvorea sésamo de dos colores y abre una chimenea pequeña para que salga el vapor.",
+    "Hornea a 180 °C unos 20 minutos, hasta que el hojaldre quede dorado. Sirve con kétchup y mostaza."
+  ],
+  "notes": "Varía los quesos a tu gusto. Sirve con kétchup y mostaza.",
+  "tags": ["hamburguesa", "hojaldre", "queso", "aruseros"],
+  "draft": false
+}

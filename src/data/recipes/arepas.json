@@ -1,0 +1,31 @@
+{
+  "slug": "arepas",
+  "title": "Arepas",
+  "subtitle": "Harina de maíz blanco, agua y el relleno que apetezca",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Día Mundial de la Arepa",
+    "day": 12,
+    "month": 9
+  },
+  "servings": 4,
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "difficulty": "fácil",
+  "story": "La arepa pide poco: la misma cantidad de harina de maíz blanco que de agua, sal, y manos. Félix Ojeda deja el relleno a gusto de cada casa.",
+  "ingredients": [
+    "Harina de maíz blanco, la misma cantidad que de agua",
+    "Agua",
+    "Sal",
+    "Relleno al gusto"
+  ],
+  "steps": [
+    "Mezcla a partes iguales harina de maíz blanco y agua. Añade sal y amasa hasta que no se pegue.",
+    "Forma bolas y aplánalas en discos del grosor de un dedo.",
+    "Cocínalas en una plancha o sartén, por los dos lados, hasta que doren y suenen huecas.",
+    "Ábrelas y rellena al gusto."
+  ],
+  "notes": "Si la masa se raya al formar, añade un chorrito de agua; si se pega, un poco más de harina.",
+  "tags": ["arepa", "maíz", "relleno", "aruseros"],
+  "draft": false
+}

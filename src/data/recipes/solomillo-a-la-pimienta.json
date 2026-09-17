@@ -1,0 +1,33 @@
+{
+  "slug": "solomillo-a-la-pimienta",
+  "title": "Solomillo a la pimienta",
+  "subtitle": "Con nata, mantequilla, coñac y Bovril",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Solomillo a la pimienta",
+    "day": 9,
+    "month": 9
+  },
+  "servings": 1,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "difficulty": "fácil",
+  "story": "Un solomillo rápido, con salsa de nata, coñac y pimienta recién molida. Félix Ojeda le da fondo con un poco de Bovril.",
+  "ingredients": [
+    "150 g de solomillo",
+    "20 g de mantequilla",
+    "200 ml de nata",
+    "5 g de Bovril",
+    "Pimienta recién molida, al gusto",
+    "Coñac"
+  ],
+  "steps": [
+    "Sazona el solomillo con sal y pimienta recién molida. Márcalo en una sartén caliente hasta el punto que te guste. Reserva.",
+    "En la misma sartén, añade la mantequilla y un chorro de coñac. Deja que reduzca.",
+    "Incorpora la nata y el Bovril. Cocina un minuto hasta que la salsa espese un poco.",
+    "Vuelve a poner el solomillo en la salsa, baña y sirve enseguida."
+  ],
+  "notes": "La pimienta, mejor molerla a última hora. Rectifica sal al final: el Bovril ya aporta.",
+  "tags": ["solomillo", "pimienta", "salsa", "aruseros"],
+  "draft": false
+}

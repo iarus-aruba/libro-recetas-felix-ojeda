@@ -1,0 +1,35 @@
+{
+  "slug": "solomillo-relleno-envuelto-en-beicon",
+  "title": "Solomillo relleno\nenvuelto en beicon",
+  "subtitle": "Con espinacas, foie, butifarra y jamón serrano",
+  "category": "Principales",
+  "worldDay": {
+    "name": "Día Mundial del Beicon",
+    "day": 5,
+    "month": 9
+  },
+  "servings": 4,
+  "prepMinutes": 25,
+  "cookMinutes": 35,
+  "difficulty": "media",
+  "story": "Un solomillo abierto y bien relleno, cerrado con una manta de beicon. El día mundial del beicon, según Félix Ojeda, no va de una loncha suelta: va de envolver el asado entero.",
+  "ingredients": [
+    "350 g de solomillo o lomo, abierto",
+    "100 g de espinacas",
+    "100 g de queso",
+    "50 g de foie",
+    "200 g de butifarra",
+    "100 g de jamón serrano",
+    "Romero",
+    "250 g de beicon"
+  ],
+  "steps": [
+    "Abre el solomillo o el lomo en libro y sálalo por dentro.",
+    "Extiende las espinacas, el queso, el foie, la butifarra, el jamón serrano y el romero.",
+    "Enrolla bien prieto y envuelve con las lonchas de beicon, cubriendo todo el paquete.",
+    "Hornea hasta que el beicon quede crujiente y el interior hecho. Reposa un par de minutos, filetea y sirve."
+  ],
+  "notes": "Si el beicon se dora antes de tiempo, cúbrelo con papel de aluminio un tramo del horno.",
+  "tags": ["beicon", "solomillo", "horno", "aruseros"],
+  "draft": false
+}

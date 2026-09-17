@@ -1,0 +1,34 @@
+{
+  "slug": "pan-de-nuez",
+  "title": "Pan de nuez",
+  "subtitle": "Medidas con el envase de yogur, nueces y copos de avena",
+  "category": "Postres",
+  "worldDay": {
+    "name": "Pan de nuez",
+    "day": 8,
+    "month": 9
+  },
+  "servings": 8,
+  "prepMinutes": 15,
+  "cookMinutes": 45,
+  "difficulty": "fácil",
+  "story": "Un bizcocho de yogur que se mide con el propio envase y se carga de nuez y avena. Félix Ojeda lo deja para merendar, o para el desayuno del día siguiente.",
+  "ingredients": [
+    "1 yogur natural (el envase sirve de medida)",
+    "2 envases de azúcar",
+    "3 envases de harina especial para bizcocho (marca Gallo, lleva levadura)",
+    "1 envase de aceite de girasol",
+    "3 huevos",
+    "300 g de nuez",
+    "100 g de copos de avena"
+  ],
+  "steps": [
+    "Vacía el yogur en un bol. Con el mismo envase, mide el azúcar, la harina y el aceite.",
+    "Añade los huevos y mezcla hasta obtener una masa homogénea.",
+    "Incorpora las nueces, enteras o groseramente picadas, y los copos de avena.",
+    "Vierte en un molde y hornea hasta que al pinchar salga seco. Enfría un poco antes de desmoldar."
+  ],
+  "notes": "La harina Gallo ya lleva levadura: no hace falta añadir más.",
+  "tags": ["nuez", "bizcocho", "yogur", "aruseros"],
+  "draft": false
+}
